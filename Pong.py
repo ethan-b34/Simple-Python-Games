@@ -1,5 +1,5 @@
 # Simple pong game using python 3
-# Made by me and a youtube guy
+
 
 import turtle
 
